@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#strong-big{
+    font-size: 40px;
+}
+
+#u-color-green{
+    color: rgb(3, 158, 3);
+}
+
+#u-color-red{
+    color: red;
+}
+
+#span-red{
+    color: red;
+}
+
+#span-blue{
+    color: blue;
+}
+
+#under-over-line{
+    text-decoration: underline overline;
+}

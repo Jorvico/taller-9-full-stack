@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+.container{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.item-blue{
+    color: blue;
+}
+
+.item-red{
+    color: red;
+}
